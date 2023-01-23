@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is BA90-8032
-
- Directory of C:\Users\Veeru999\Desktop\MyProject
-
-01/23/2023  02:15 PM    <DIR>          .
-01/23/2023  02:09 PM    <DIR>          ..
-01/23/2023  02:15 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  810,392,199,168 bytes free
+change1
